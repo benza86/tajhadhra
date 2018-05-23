@@ -1,0 +1,99 @@
+[
+	
+	
+	{
+     "title":"الحلقات يوتوب من هنا",
+    "drawable":"",
+    "submenu":"الحلقات من هنا",
+    "iap":false,
+    "tabs":[
+	    
+	  
+
+	 {
+        "title":" تاج الحاضرة",
+        "provider":"youtube",
+        "arguments":[
+	"PLFApv2COP4epQXmmQvIuZAi4fm3dBzI9C",
+
+          "playlist"
+   ]
+     }
+        ]
+     },
+	         
+,
+	 {
+    "title":"الطريقة الجديدة للمشاهدة",
+    "drawable":"",
+    "submenu":"الحلقات من هنا",
+    "iap":false,
+    "tabs":[
+	   
+	    	     {
+        "title":"الحلقة 6",
+        "provider":"webview",
+        "arguments":[
+"http://romdhantn.tn/tej-el-hadhra-episode-6-%D8%AA%D8%A7%D8%AC-%D8%A7%D9%84%D8%AD%D8%A7%D8%B6%D8%B1%D8%A9-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9-6/"
+	]   },
+	     {
+        "title":"الحلقة 5",
+        "provider":"webview",
+        "arguments":[
+"http://romdhantn.tn/tej-el-hadhra-episode-5-%D8%AA%D8%A7%D8%AC-%D8%A7%D9%84%D8%AD%D8%A7%D8%B6%D8%B1%D8%A9-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9-5/"
+	]   },
+	      {
+        "title":"4الحلقة",
+        "provider":"webview",
+        "arguments":[
+"http://romdhantn.tn/tej-el-hadhra-episode-4-%D8%AA%D8%A7%D8%AC-%D8%A7%D9%84%D8%AD%D8%A7%D8%B6%D8%B1%D8%A9-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9-4/"
+]  }  ,
+	      {
+        "title":" 3 الحلقة",
+        "provider":"webview",
+		"arguments":[
+"http://romdhantn.tn/tej-el-hadhra-episode-3-%D8%AA%D8%A7%D8%AC-%D8%A7%D9%84%D8%AD%D8%A7%D8%B6%D8%B1%D8%A9-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9-3/"
+
+			
+		]    }
+	    ,
+	         {
+        "title":" 2 الحلقة",
+        "provider":"webview",
+		"arguments":[
+"http://romdhantn.tn/tej-el-hadhra-episode-2-%D8%AA%D8%A7%D8%AC-%D8%A7%D9%84%D8%AD%D8%A7%D8%B6%D8%B1%D8%A9-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9-2/"
+]    }
+	    ,
+	         {
+        "title":" 1 الحلقة",
+        "provider":"webview",
+		"arguments":[
+"http://romdhantn.tn/tej-el-hadhra-episode-1-%D8%AA%D8%A7%D8%AC-%D8%A7%D9%84%D8%AD%D8%A7%D8%B6%D8%B1%D8%A9-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9-1/"
+]    }
+	   
+	     
+    ]
+
+  }
+		
+  
+
+	
+	,
+
+  {
+    "title":"عن التطبيق",
+    "drawable":"",
+    "submenu":"اخري",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
+        "provider":"custom",
+        "arguments":[
+          "com.knoozapps.myapp.tajhadra.SettingsFragment", "fragment"
+        ]
+      }
+    ]
+  }
+]
